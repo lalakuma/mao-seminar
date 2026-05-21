@@ -9,6 +9,7 @@ https://elmas3.github.io/mao-seminar/
 わかばchan
 マスター
 ヘッド
+チェリー
 
 # ディレクトリ構成
 ```
